@@ -1,0 +1,11 @@
+﻿  ConsoleApplication4.cpp
+c:\users\vladi\desktop\consoleapplication4 — копия\consoleapplication4\consoleapplication4.cpp(104): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\vladi\desktop\consoleapplication4 — копия\consoleapplication4\consoleapplication4.cpp(94): warning C4101: fz: неиспользованная локальная переменная
+c:\users\vladi\desktop\consoleapplication4 — копия\consoleapplication4\consoleapplication4.cpp(137): warning C4311: приведение типов: усечение указателя из "HBRUSH" в "LONG"
+c:\users\vladi\desktop\consoleapplication4 — копия\consoleapplication4\consoleapplication4.cpp(137): warning C4302: приведение типов: усечение из "HBRUSH" к "LONG"
+c:\users\vladi\desktop\consoleapplication4 — копия\consoleapplication4\consoleapplication4.cpp(147): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\vladi\desktop\consoleapplication4 — копия\consoleapplication4\consoleapplication4.cpp(258): warning C4311: приведение типов: усечение указателя из "HBRUSH" в "LONG"
+c:\users\vladi\desktop\consoleapplication4 — копия\consoleapplication4\consoleapplication4.cpp(258): warning C4302: приведение типов: усечение из "HBRUSH" к "LONG"
+c:\users\vladi\desktop\consoleapplication4 — копия\consoleapplication4\consoleapplication4.cpp(361): warning C4311: приведение типов: усечение указателя из "HBRUSH" в "LONG"
+c:\users\vladi\desktop\consoleapplication4 — копия\consoleapplication4\consoleapplication4.cpp(361): warning C4302: приведение типов: усечение из "HBRUSH" к "LONG"
+  ConsoleApplication4.vcxproj -> C:\Users\vladi\Desktop\ConsoleApplication4 — копия\x64\Debug\ConsoleApplication4.exe
